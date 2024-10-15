@@ -7,17 +7,22 @@
         },
         "postgreSQLServerName": {
             "value": "anthony-dbsrv-dev"
+            "value": "anthony-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
+            "value": "anthony-db-dev"
             "value": "anthony-db-dev"
         },
         "appServicePlanName": {
             "value": "anthony-asp-dev"
+            "value": "anthony-asp-dev"
         },
         "appServiceAPIAppName": {
             "value": "anthony-be-dev"
+            "value": "anthony-be-dev"
         },
         "appServiceAppName": {
+            "value": "anthony-fe-dev"
             "value": "anthony-fe-dev"
         },
         "location": {
@@ -25,4 +30,3 @@
         }
     }
 }
-
