@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "uat"
+            "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "jseijas-dbsrv-uat"
+            "value": "anthony-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "jseijas-db-uat"
+            "value": "anthony-db-uat"
         },
         "appServicePlanName": {
-            "value": "jseijas-asp-uat"
+            "value": "anthony-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "jseijas-be-uat"
+            "value": "anthony-be-uat"
         },
         "appServiceAppName": {
-            "value": "jseijas-fe-uat"
+            "value": "anthony-fe-uat"
         },
         "location": {
             "value": "North Europe"
